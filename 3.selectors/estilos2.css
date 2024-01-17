@@ -1,0 +1,13 @@
+#top{
+    background-color: orange;
+}
+#machu{
+    width: 100px;
+}
+.borde-negro{
+    padding: 10px;
+    border: 10px solid black;
+}
+.tres{
+    width: 300px;
+}
